@@ -1,0 +1,17 @@
+Changelog [21.05]
+• Restyle MainMenu
+• Restyle DownloadMenu
+• Restyle HudElemet's
+• Restyle ClickGui
+• Relogic BackTrack
+• Relogic NCP speed
+• Relogic Jesus(no work)
+• Rewrote AutoEZ
++ add mode NCPNew speed(no work)
++ add AltManager button
++ add mode TargerHud:
+ AuraGlow 
+ VapeStyle
+ SleekDark
+- Unnecessary functions in Combat
+- Removed past mods in TargetHud
