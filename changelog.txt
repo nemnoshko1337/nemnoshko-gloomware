@@ -1,13 +1,15 @@
-Changelog [21.05]
+Changelog 1.1 [26.05]
 • Restyle MainMenu
 • Restyle DownloadMenu
 • Restyle HudElemet's
 • Restyle ClickGui
 • Relogic BackTrack
 • Relogic NCP speed
-• Relogic Jesus(no work)
+• Relogic Jesus
+• Fixed Hwid key
 • Rewrote AutoEZ
-+ add mode NCPNew speed(no work)
++ add mode NCPNew speed(baybe work)
++ Add Disabler(NCPOld, MetaHvH)
 + add AltManager button
 + add mode TargerHud:
  AuraGlow 
@@ -15,3 +17,5 @@ Changelog [21.05]
  SleekDark
 - Unnecessary functions in Combat
 - Removed past mods in TargetHud
++ add mode NCPNew speed(baybe work)
++ Add Disabler(NCPOld, MetaHvH)
