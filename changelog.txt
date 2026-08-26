@@ -10,7 +10,7 @@ GloomWare Update Aug 26
 
 * MOVEMENT
 
-+ Reworked NS Speed logic
++ Reworked NPS Speed logic
 + Reworked all Jesus modes
 + Improved movement stability
 
