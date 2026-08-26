@@ -1,21 +1,33 @@
-Changelog 1.1 [26.05]
-• Restyle MainMenu
-• Restyle DownloadMenu
-• Restyle HudElemet's
-• Restyle ClickGui
-• Relogic BackTrack
-• Relogic NCP speed
-• Relogic Jesus
-• Fixed Hwid key
-• Rewrote AutoEZ
-+ add mode NCPNew speed(baybe work)
-+ Add Disabler(NCPOld, MetaHvH)
-+ add AltManager button
-+ add mode TargerHud:
- AuraGlow 
- VapeStyle
- SleekDark
-- Unnecessary functions in Combat
-- Removed past mods in TargetHud
-+ add mode NCPNew speed(baybe work)
-+ Add Disabler(NCPOld, MetaHvH)
+GloomWare Update Aug 26
+
+* VISUALS
+
++ Redesigned ClickGUI
++ Redesigned Watermark
++ New Main Menu
++ Smoother animations
+
+
+* MOVEMENT
+
++ Reworked NS Speed logic
++ Reworked all Jesus modes
++ Improved movement stability
+
+
+* COMBAT
+
++ Added Enchanted Golden Apple Swap
++ Improved item switching logic
+
+
+* MISC
+
++ Added FakeLag
++ Various internal improvements
+
+
+* FIXES
+
++ Minor bug fixes
++ Performance improvements
