@@ -1,33 +1,27 @@
-GloomWare Update Aug 26
+GloomWare Update Illusion Update
 
-* VISUALS
+VISUALS
+• + Restyled ClickGUI
+• + Redesigned Watermark
+• + New Main Menu
+• + Smoother animations
 
-+ Redesigned ClickGUI
-+ Redesigned Watermark
-+ New Main Menu
-+ Smoother animations
+MOVEMENT
+• + Added TP Infl
+• ~ Reworked NPS Speed logic
+• ~ Reworked all Jesus modes
+• + Improved movement stability
 
+COMBAT
+• + Added Enchanted Golden Apple Swap
+• + Improved item switching logic
 
-* MOVEMENT
+MISC & UI
+• + Redesigned Exit Screen
+• + Added FakeLag
+• ~ Various internal improvements
 
-+ Reworked NPS Speed logic
-+ Reworked all Jesus modes
-+ Improved movement stability
-
-
-* COMBAT
-
-+ Added Enchanted Golden Apple Swap
-+ Improved item switching logic
-
-
-* MISC
-
-+ Added FakeLag
-+ Various internal improvements
-
-
-* FIXES
-
-+ Minor bug fixes
-+ Performance improvements
+FIXES
+• + Fixed Config System
+• + Minor bug fixes
+• + Performance improvements
