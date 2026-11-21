@@ -1,4 +1,3 @@
-
 {
   "version": 1,
   "library": {
@@ -6,6 +5,31 @@
     "author": "nemnoshko1337",
     "description": "Official GloomWare cloud music library"
   },
-  "tracks": []
+  "tracks": [
+    {
+      "name": "8 миля",
+      "artist": "VILLIAN",
+      "file": "Madk1d_VILLIAN-8_миля.mp3"
+    },
+    {
+      "name": "так по",
+      "artist": "Madk1d",
+      "file": "Madk1d-так_по.mp3"
+    },
+    {
+      "name": "Распять",
+      "artist": "Greyrock, Tewiq",
+      "file": "Madk1d_Greyrock_Tewiq.mp3"
+    },
+    {
+      "name": "ParisLove",
+      "artist": "Fortuna 812",
+      "file": "Fortuna_812_ParisLove.mp3"
+    },
+    {
+      "name": "Trytofriend",
+      "artist": "Fortuna 812",
+      "file": "Fortuna_812_Trytofriend.mp3"
+    }
+  ]
 }
-
