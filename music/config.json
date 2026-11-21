@@ -1,1 +1,11 @@
 
+{
+  "version": 1,
+  "library": {
+    "name": "GloomWare Music",
+    "author": "nemnoshko1337",
+    "description": "Official GloomWare cloud music library"
+  },
+  "tracks": []
+}
+
