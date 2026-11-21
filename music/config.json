@@ -1,3 +1,4 @@
+
 {
   "version": 1,
   "library": {
@@ -47,19 +48,19 @@
       "file": "AL - 90 Black Sapphire.mp3"
     },
     {
-      "name" :"DJ KC - We Like The House (S=INKS Club Voice)"
-      "artist" : "Filip Bogalski"
+      "name": "DJ KC - We Like The House (S=INKS Club Voice)",
+      "artist": "Filip Bogalski",
       "file": "DJ KC - We Like The House (S=INKS Club Voice).mp3"
     },
     {
-      "name":"grinding of the teeth x general release"
-      "artist": "restoreta"
+      "name": "grinding of the teeth x general release",
+      "artist": "restoreta",
       "file": "grinding of the teeth x general release.mp3"
     },
     {
-      "name": "halls of the dead #2016 [prod. onda andar]"
-      "artist": "ONDA ANDAR"
+      "name": "halls of the dead #2016 [prod. onda andar]",
+      "artist": "ONDA ANDAR",
       "file": "halls of the dead #2016 [prod. onda andar].mp3"
-    {
+    }
   ]
 }
