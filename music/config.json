@@ -1,4 +1,3 @@
-
 {
   "version": 1,
   "library": {
@@ -44,18 +43,23 @@
     },
     {
       "name": "Рассвет (prod. cloudly006)",
-      "artist":"FORTUNA 812",
-      "file":"Рассвет (prod. cloudly006)"
+      "artist": "FORTUNA 812",
+      "file": "Рассвет (prod. cloudly006)"
     },
     {
       "name": "страшный сон (prod. greyrock,foreless)",
       "artist": "лампочка34",
-      "file": "страшный сон (prod. greyrock,foreless)"
-    }
+      "file": "страшный сон (prod. greyrock,foreless) - лампочка34.mp3"
+    },
     {
       "name": "VZk1ll Turbo 2000 - remind prod.@beetle",
       "artist": "#CursedSwagClan",
       "file": "1781235678.mp3"
+    },
+    {
+      "name": "1806994626",
+      "artist": "Неизвестен",
+      "file": "1806994626.mp3"
     },
     {
       "name": "#темные_глаза",
