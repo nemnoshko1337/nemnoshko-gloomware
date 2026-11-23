@@ -1,27 +1,24 @@
-GloomWare Update Illusion Update
+GloomWare Update — Iceborn Update
 
-VISUALS
-• + Restyled ClickGUI
-• + Redesigned Watermark
-• + New Main Menu
+ Visual
+• + Completely redesigned all visual modules
+• + Fixed bugs in visual features
+• + Improved visual effects and rendering
 • + Smoother animations
 
-MOVEMENT
-• + Added TP Infl
-• ~ Reworked NPS Speed logic
-• ~ Reworked all Jesus modes
-• + Improved movement stability
-
-COMBAT
-• + Added Enchanted Golden Apple Swap
-• + Improved item switching logic
-
-MISC & UI
+UI
+• + Completely redesigned ClickGUI
+• + Added a brand-new Main Menu
+• + Redesigned Watermark
 • + Redesigned Exit Screen
-• + Added FakeLag
-• ~ Various internal improvements
 
-FIXES
-• + Fixed Config System
-• + Minor bug fixes
-• + Performance improvements
+Music
+• + Added Music Player
+• + Added music playback functionality
+• + Improved music interface and integration
+
+Fixes
+• + Fixed various visual bugs
+• + Improved rendering stability
+• + General performance improvements
+• + Various internal improvements
